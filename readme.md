@@ -1,5 +1,8 @@
 # Notes and Exercises from Fundamentals of Numerical Computation
 
+
+This are just my personal notes and exercises from the book [Fundamentals of Numerical Computation](https://tobydriscoll.net/fnc-julia/)
+
 Important note: I do not have access to the solutions, and have not carefully checked my solutions. 
 
 Useful things to know:
